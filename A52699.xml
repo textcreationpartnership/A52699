@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lambs warre against the man of sinne the end of it, the manner of it, and what he wars against : his weapons, his colours, and his kingdom, and how all may know whether they be in it or no ...</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52699</idno>
+            <idno type="STC">Wing N290</idno>
+            <idno type="STC">ESTC R31074</idno>
+            <idno type="EEBO-CITATION">11770966</idno>
+            <idno type="OCLC">ocm 11770966</idno>
+            <idno type="VID">48858</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48858)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lambs warre against the man of sinne the end of it, the manner of it, and what he wars against : his weapons, his colours, and his kingdom, and how all may know whether they be in it or no ...</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Naylor by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48858:1"/>
+            <pb n="1" facs="tcp:48858:1" rendition="simple:additions"/>
+            <head>THE Lambs Warre AGAINST The Man of Sinne;</head>
+            <head type="sub">THE <hi>End of it, the manner of it, and what he wars againſt.<lb/>
+His VVeapons, his Colours, and his Kingdom.</hi>
+            </head>
+            <head type="sub">AND <hi>How all may know whether they be in it, or no; and whether the ſame Christ be in them that is, was, and is to come, and their faithful<g ref="char:EOLhyphen"/>neſſe or unfaithfulneſſe to him.</hi>
+            </head>
+            <p>THE Lord God Almighty, to whom belongs all the king<g ref="char:EOLhyphen"/>doms in heaven and earth, doth nothing therein but by his Son, the Lamb, by him he creates and governs; by him he ſaves and condemns; judges and juſtifies<g ref="char:punc">▪</g> makes peace, and makes war, and whatſoever he doth, he is at his right hand in all places, who in him hath long ſuffered the burthen of iniquity, and op<g ref="char:EOLhyphen"/>preſſion of wickedneſs that hath abounded for many generations, till it
+<pb facs="tcp:48858:2"/>
+be come to the full meaſure, as in the daies of old; and now his appea<g ref="char:EOLhyphen"/>rance in the Lamb (as ever it was when iniquitie was full) is to make war with the god of this world, and to plead with his Subjects concer<g ref="char:EOLhyphen"/>ning their revolt from him their Cre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or, who ordered their begin<g ref="char:EOLhyphen"/>ning, and gave them a being, and their breaking the order that was in the beginning, and giving up their obedience to the worldlie ſpirit, and the inventions thereof, til they become ſo far one with it, as that it hath not onelie defiled their ſouls and bodies, blinded their eies, ſtopt their ears, and ſo made the creature utterlie unprofitable to God, and unfit for a Temple for him to be worſhipped in, or to hear the voice, or un<g ref="char:EOLhyphen"/>derſtand the mind of the eternal Spirit, by which they was created, but that they are alſo become open enemies to everie check and reproof of that Spirit which ſhould lead them to God, and doth teſtifie againſt their evil deeds, and are not afraid to ſpeak againſt it as a thing not worth the minding, nor able to lead them in the waie of truth. Thus hath God loſt the creature out of his call and ſervice, and he is become one with the god of this world, to ſerve and obey him in waies that deſpite the ſpirit of Grace; and now uſe the Creation againſt the Crea<g ref="char:EOLhyphen"/>tor. Now againſt this evil ſeed, and its whole work brought forth in that nature, doth the LAMB make war to take vengeance of his Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <div type="part">
+               <head>The end of his War is,</head>
+               <p>TO judge this deceiver openlie before all the Creation, ſhowing that his waies, faſhions, and cuſtoms, are not what God ordered for man to live in, in the beginning, to bind him and to redeem out of his captivitie, all who will but believe in the Lamb, &amp; are wearie of this ſervice and bondage to his Enemie, and who wil but come forth and give their names and hearts to joine with him, and bear his image and teſtimonie openlie before all men, and willinglie follow him in ſuch waies as wherein the Father hath given him victorie over this po<g ref="char:EOLhyphen"/>wer, for himſelf and all that follow him, to redeem them to God, and the reſt who will not believe and follow him, and bear his image, them to condemn with the deſtroyer into everlaſting deſtruction, and to re<g ref="char:EOLhyphen"/>ſtore all things, and make all things new, as they were in the begin<g ref="char:EOLhyphen"/>ning, that God alone may rule in his own work.</p>
+            </div>
+            <div type="part">
+               <head>The manner of his War is,</head>
+               <p>FIrſt, That he may be juſt who is to judge all men and ſpirits, he gives his light into their hearts, even of man &amp; woman, whereby he lets all ſee (who will mind it) what he is diſpleaſed with, what is with him, and what is againſt him; what he owns, and what he diſowns, that ſo all
+<pb n="3" facs="tcp:48858:2"/>
+may know what is for deſtruction, to come out of it, leſt they be de<g ref="char:EOLhyphen"/>ſtroyed with it, that ſo he may ſave and receive all that are not wilful<g ref="char:EOLhyphen"/>lie diſobedient, and hardened in the pleaſures of this world, againſt him; all who are deceived, who are willing to be undeceived; all who are captivated, who are willing to be ſet free; all that are in darkneſſe, and are willing to come to light: In a word, All that loves righteouſ<g ref="char:EOLhyphen"/>neſſe more then the pleaſures of ſin, that he may not deſtroy them, nor they ſight againſt him, and know not, but that he may receive them, to be one with him againſt that which hath miſled and deceived them; and as manie as turn at his reproofe, he doth receive, and gives them power in ſpirit and life to be as he is, in their meaſure, but all in watch<g ref="char:EOLhyphen"/>ing, and wars againſt that which hath had them, and now has the reſtoe the Creation in bondage, that he may reſtore all things in their former liberty.</p>
+            </div>
+            <div type="part">
+               <head>What they are to war againſt.</head>
+               <p>AND that is, Whatever is not of God, whatever the eie (which loves the world) luſts after; whatever the fleſh takes delight in, and whatever ſtands in reſpect of perſons, (as ſaith the Scripture) the luſt of the eie, the luſt of the fleſh, the pride of life, theſe are not of God; and whatever the god of this world hath begot in mens hearts to pra<g ref="char:EOLhyphen"/>ctice or to plead for, which God did not place there, all this the Lamb and his Followers wars againſt, which is at enmity with it both in themſelves, and where-ever they ſee it; for in the work of God a<g ref="char:EOLhyphen"/>lon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is his Kingdom, and all other works will he deſtroy. So their wars is not againſt creatures, they wreſtle not with fleſh and blood which God hath made, but with ſpiritual wickedneſſe, exalted in the hearts of men and women, where God alone ſhould be, and pleaded for, by which they become enemies to God, and their ſouls are deſtroyed: In<g ref="char:EOLhyphen"/>deed, their war is againſt the whole work and device of the god of this world, his Laws, his Cuſtoms, his Faſhions, his Inventions, and all which are to add to, or take from the work of God, which was in the beginning, this is all enmitie againſt the Lamb and his followers, who are entered into the Covenant which was in the beginning, and there<g ref="char:EOLhyphen"/>fore no wonder why they are hated of the god of this world, and his ſubjects, who comes to ſpoil him of all at once, &amp; to deſtroy the whole bodie of ſinne, the foundation and ſtrength of his Kingdome, and to take the Government to himſelf, that God may whollie rule in the heart of man, and man whollie live in the work of God.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:48858:3"/>
+               <head>What their Weapons are.</head>
+               <p>AND as they war not againſt mens perſons, ſo their Weapons are not carnal, nor hurtful to anie of the Creation; for the Lamb comes not to deſtroy mens lives, nor the work of God, and therefore at his appearance in his ſubjects, he puts ſpiritual weapons into their hearts and hands; Their Armor is the Light; their ſword the ſpirit of the Fa<g ref="char:EOLhyphen"/>ther and the Son; their Shield is Faith and Patience; their pathes are prepared with the Goſpel of peace, and good will towards all the Crea<g ref="char:EOLhyphen"/>tion of God: Their Breſt-plate is righteouſneſſe and holineſſe to God; their minds are girt with godlineſſe, and they are covered with ſalvati<g ref="char:EOLhyphen"/>on, and they are taught with truth. And thus the Lamb in them, and they in him, goes out in judgement and righteouſneſs to make war with his enemies, conquering and to conquer, not as the prince of this world in his ſubjects, with whips, and priſons, tortures, and torments on the bodies of creatures, to kill and deſtroy mens lives, who are deceived, and ſo become his enemies; but he goes forth in the pow<g ref="char:EOLhyphen"/>er of the ſpirit with the word of truth, to paſſe judgement upon the head of the ſerpent, which doth deceive and bewitch the world, and co<g ref="char:EOLhyphen"/>vers his own with his love, whileſt he kindles coles of fire on the head of his enemies; for with the ſpirit of judgement, and with the ſpirit of burning will he plead with his enemies: and having kindled the fire, and awakened the creature, and broken their peace and reſt in ſin, hee waits in patience to prevail to recover the creature, and ſlay the enmi<g ref="char:EOLhyphen"/>tie by ſuffering all the rage, and envie, and evil entreatings, that the e<g ref="char:EOLhyphen"/>vil ſpirit that rules in the creature, can caſt upon him, and he receives it all with meekneſſe and pitie to the creature, returning love for hatred, wreſtling with God againſt the enmity, with prayers and tears night and daie, with faſting, mourning, and lamentation, in patience, in faithful<g ref="char:EOLhyphen"/>neſſe, in truth, in love unfeigned, in long-ſuffering, and in all the fruits of the ſpirit, that if by any means he may overcome evil with good, and by this his light in the light of the creature, that the eie may come to be opened, which the god of this world hath blinded, that ſo the creature might ſee what it is he thus hates, and what fruits he himſelfe brings forth, that the creature may be convinced, he is no deceiver, but hath with him the life and power of innocencie and holineſſe, in whom he rules; and this preaching hath a power in it to open the eye of all that are not wilfullie blind, becauſe they love the deeds of darkneſſe, and ſuch are left thereby without excuſe for ever; and thus he in his members many times wreſtles and preaches to the ſpirits in priſon, with much long-ſuffering towards the world, a Nation, or a particular per<g ref="char:EOLhyphen"/>ſon, before he gives them up, and numbers them for deſtruction, yea, ſometimes till their rage againſt him, and cruelty exerciſed upon his
+<pb n="5" facs="tcp:48858:3"/>
+members be ſo great, that there be no remedie, as in the daies of old 2 <hi>Chron.</hi> 36. 15, 16.</p>
+            </div>
+            <div type="part">
+               <head>And theſe Fruits are his Colours he holds forth to all the world in ſuch as he reigns in.</head>
+               <p>
+                  <hi>AS they come to obey him, he covers them with love, gentieneſſe, faith, pati<g ref="char:EOLhyphen"/>ence, and purity, grace and vertue, temperance, and ſelf-denial, meek<g ref="char:EOLhyphen"/>neſſe, and innocency, all in white, that follow him, in whom he is, who walks themſelves as he walked, in all things conforming to God, with boldneſſe and zeal, owning the Lamb to be their Leader, with him teſtifying againſt the world, That the deeds thereof are evil, themſelves the mean while covered with his Righteouſneſſe againſt all the ſtorms and tempeſts that they muſt be ſure to meet withall who bears that Teſtimony which the Lambe hath ever borne, in whom he appeared to the convincing of the world, that he is the ſame that ever he was from the beginning, that all that will believe and loves holineſſe may ſee where it is to be found, and come forth to him, &amp; be ſaved, that the whole world become not as <hi>Sodom</hi> in the day of wrath, which ever comes upon a people or a Nation after Chriſt hath thus appeared, and been rejected thereof.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>What his Kingdom is.</head>
+               <p>
+                  <hi>THE Power, the Glory, and Compaſſe of it, is not comprehended with mortal understanding, which was before all beginnings, and endures for ever, who orders and limits all ſpirits in Heaven and Earth, who rules in the Rulers of the Earth, and in all heavenly places, though many ſpirits knows him not, til they have felt his reproof for their rebellion a<g ref="char:EOLhyphen"/>gainst him; his ſufferings are free for loves ſake, which is naturally in him to the Creation, being his off-ſpring, for which cauſe he becomes meek and lowly, that he may bear the infirmities of the Creation, which doth no way take from his power, who is èqual with the Father, but doth manifest his power to be un<g ref="char:EOLhyphen"/>limited, in that he beareth all things, his Dominion he hath amongſt the Hea<g ref="char:EOLhyphen"/>then, and his hands is in the counſels of the Kings of the Earth, and there is no place where he is not, who deſcends below all depths, and aſcends far above all Heavens, that he may fill all things.</hi>
+               </p>
+               <p>But his Kingdom in this world, in which he chiefly delights to walk and make himſelf known, is in the hearts of ſuch as have believed in him, and owned his call out of the world, whoſe hearts he hath purifi<g ref="char:EOLhyphen"/>ed, and whoſe bodies he hath waſhed in obedience, and made them ſit for the Father to be worſhipped in; and in ſuch he rejoices and takes de<g ref="char:EOLhyphen"/>light, and his Kingdom in ſuch is Righteouſneſſe and Peace; in love, in power and purity, he leads them by the gentle movings of his ſpirit out of all their own ways and wils, in which they would defile themſelves, and guides them into the will of the Father, by which they become, more clean and holy; deeply he lets them know his Covenant, and
+<pb n="6" facs="tcp:48858:4"/>
+how far they may go and be ſafe, he gives them his Laws and his Sta<g ref="char:EOLhyphen"/>tutes, contrary in all things to the god of this world, that they may be known to be his before all his Enemies; if they keep his counſel, they are ſafe; but if they refuſe, he lets them know the correction of the Father; his preſence is great joy to them of a willing mind; but with the froward he appears in frowardneſs; the kiſſes of his lips is life eternal: But who may abide his wrath? the ſecrets of the Father are with him, and he maketh all his Subjects wiſe; he makes them all one heart, and with himſelf of the ſame mind; his Government is wholly pure, and no unclean thing can abide his judgements: As any come into his king<g ref="char:EOLhyphen"/>dom, they are known, and their change is to be ſeen of all men; he keeps them low in minde, and a meek ſpirit doth he beget in them; and with his power he leads them forth againſt all the enmity of the evil one, and makes all conditions comfortable to them who abides in his kingdom.</p>
+               <p>Now are theſe the laſt times, and many falſe Chriſts there muſt ap<g ref="char:EOLhyphen"/>pear, and be made manifeſt by the true Chriſt, with their falſe Prophets, falſe Ways, and falſe Worſhips, and falſe Worſhippers, which though they be at wars one with another, yet not the Lambs war. Now ſeeing he hath appeared who is from everlaſting, and changeth not, here is an everlaſting tryal for you all, all ſorts of profeſſors, whether you profeſſe him from the Letter, or the Light, come try your Chriſt, meaſure your life, and weigh your profeſſion with that which cannot deceive you, which hath ſtood, and will ſtand for ever, for he is ſealed of the Father.</p>
+               <p>Now in truth to God and your own ſouls, prove your work in time, left you and it periſh together: Firſt ſee if your Chriſt be the ſame that was from everlaſting to everlaſting, or is he changed according to the times, in life, in death, in peace and wars, in reigning, in ſuffering, in caſting out, and receiving in; and if you finde the true Chriſt, then prove your faithfulneſſe to him in all things: Doth him whom you o<g ref="char:EOLhyphen"/>bey as your Leader, lead you out to war againſt this world, and all the pride and glory, faſhions and cuſtoms, love and pleaſures, and whate<g ref="char:EOLhyphen"/>ver elſe is not of God therein? and to give up your lives unto death, rather then knowingly to yield your obedience thereto? Doth he juſti<g ref="char:EOLhyphen"/>fie any life now, but what he juſtified in the Prophets, and Apoſtl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and Saints of old? Doth he give his Subjects liberty now to bow to the god of this world, and his wayes, in things that he hath denied in the Saints of old, and for denying whereof, many both then and now have ſuffer<g ref="char:EOLhyphen"/>ed? Is he at peace in you, whileſt you are in the fleſhly pleaſures, or whileſt you have fellowſhip with the unclean ſpirits that are in the world? Doth he not lead out of the world, and to ſtrive againſt it in watchings, faſtings, prayers, and ſtrong cryes to the Father, that you may be kept, and others delivered from the bondage and pollutions of
+<pb n="7" facs="tcp:48858:4"/>
+it? Is his Kingdom the ſame in you? And doth he give out the ſame ſpiritual Laws againſt all the Laws and cuſtoms of the man of ſinne in you, as he hath done in his ſubjects in all ages? Doth he beget in your hearts a new nature, contrary to the worlds nature in all things, moti<g ref="char:EOLhyphen"/>ons and delights like himſelf, whereby he works out the old nature that inclines to the world, and can be at peace therein, and now your peace is wholly in him, and that which crucifies the world to you, and you to it, is your joy and delight? Hath he called you out of this world, to bear his Name before the powers thereof, &amp; put his teſtimony into your hearts, and the ſame Weapons into your hands, as was uſed by the Saints of old againſt the powers of darkneſſe, whereby you have power given to overcome evil with good, and many other fruits you may find, which he ever brought forth in his choſen, whereby they was known to be in him, and he in them, for which the world hates them; by all which you may clearly know if he be the ſame in you to day, as he was yeſterday in his people, and for ever; for he changeth not, nor conforms to the world, nor the will of any creature, but changes all his followers, till they be<g ref="char:EOLhyphen"/>come in all things like himſelf; for they muſt bear his Name &amp; Image before all men and ſpirits.</p>
+               <p>Now if you profeſſe the ſame as was, and is, and is to come, the ſame for evermore, the ſame Chriſt, the ſame calling in you that was in all the people of God, then prove your faithfulneſs in anſwering and obey<g ref="char:EOLhyphen"/>ing: Who is it that ſees not that wars is begun? and to whom hath not the ſound gone forth? The children of light hath publiſhed the Goſ<g ref="char:EOLhyphen"/>pel of Light through the world, and the Prince of darkneſs hath ſhow<g ref="char:EOLhyphen"/>ed his enmity againſt it; the Lamb hath appeared with his Weapons as before-mentioned, in much long-ſuffering, and the god of this world hath appeared to withſtand him with his Weapons, and hath prevailed unto blood with much eagerneſs; and the Lambe hath prevailed unto ſuffering with much meekneſs and patience, each of them in their Sub<g ref="char:EOLhyphen"/>jects, in whom theſe contrary ſpirits acts one againſt another; and now ſee what part you take, who hath hired you, and whoſe work are you in, or are you idle, looking on? Or are you gone out with the Beaſt of the field, and regards nothing but your bellies and pleaſures? Doth it not greatly concern you to try your eſtate, ſeeing all muſt come ſpeedily to an account for their lives and ſervice? Are you ſuch as ſpend your time and ſtrength in watching and praying to the Father of ſpirits for your ſelves and the people of God, that they may be kept in the time of temp<g ref="char:EOLhyphen"/>tation, and aſſaults of the evil one, who ſeeks his advantage on the weak brethren, and for your enemies, that they may be delivered from under his power, who are captivated by him at his will, to fulfil his luſts and envie, and ſatisfie his wrath upon the innocent. And do you deny your ſelves of your pleaſures, profits, eaſe and liberty, that you may hold forth a chaſte converſation in the power and life of gentleneſs, meeke<g ref="char:EOLhyphen"/>neſs, faithfulneſs &amp; truth, exerciſing a conſcience void of offence towards God and all men, that thereby you may ſhine forth in righteouſneſs, ſo
+<pb n="8" facs="tcp:48858:5" rendition="simple:additions"/>
+as to convince your enemies whom you pray for; thus following him who lays down his life for his enemies; Is this your war? and theſe your wea<g ref="char:EOLhyphen"/>pons? Is this your calling? &amp; are you faithful to him that hath called you hereto, ſo as you can by no means bow to the god of this world, nor his ways, though it were to ſave your lives or credit in the world, or eſtates, &amp; yet can ſerve the meaneſt creature in Gods way, though to the loſs of all? I beſeech you be faithful to your own ſouls herein: Do you find no<g ref="char:EOLhyphen"/>thing in you that calls or moves this way, or reproves the contrary? If there be, are you not ſuch as quench the ſpirit, &amp; put out your own eye, &amp; denies the Lambs call againſt your own lives? &amp; if there be not, then are you not dead members, cut off from Chriſt, &amp; all your profeſſion is but a lye, &amp; without Chriſt you are in the world? O that you would prove your own ſelves; for there be many deceitful workers at this day of his appea<g ref="char:EOLhyphen"/>rance, who do the work of the Lord negligently &amp; deceitfully, &amp; many do their own work inſtead of his; &amp; many are called, &amp; for a while abide, but in the time of hardſhip prove deceitful, &amp; return to ſerve in the world a<g ref="char:EOLhyphen"/>gain, &amp; take pleaſure therein; others are called &amp; convinced, but com half out of the world, even <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s far as they ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it without loſs or ſhame, but keep their covenant therewith ſtil, in what makes moſt for their gain, or earthly advantage or credit: othe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s have anſwered their call, &amp; bin faith<g ref="char:EOLhyphen"/>ful in the whole Covenant of the Lamb againſt the prince of this world, ſo far as they have ſeen; but not minding the watch againſt the enemy, &amp; not keeping low in the fear, &amp; zealous in the light, have ſuffered the ſim<g ref="char:EOLhyphen"/>plicity to be deceived, &amp; are led back to the old beggarly rudiments of the world again, &amp; take that for their perfection &amp; growth, which once they had vomited up; &amp; theſe expect great things in their work; but they are blinder then the reſt, &amp; more to be pittyed, becauſe of the ſimplicity that is deceived. Many other grounds there be that brings not fruit to perfe<g ref="char:EOLhyphen"/>ction, who are not found faithful to him that hath called them therein; ſo that now truth is, that many are called, but few choſen and faithful; many are aſhamed at the Lambs appearance, it is ſo low, &amp; weak, &amp; poor, &amp; contemptible, &amp; many are afraid ſeeing ſo great a power againſt him; many be at work in their imaginations, to compaſs a kingdom to get po<g ref="char:EOLhyphen"/>wer over ſin, &amp; peace of conſcience, but few wil deny all to be led by the Lamb in a way they know not, to bear his teſtimony &amp; mark againſt the world, and ſuffer for it with him: Now deceit hath taught you to ſay, and may be you think it alſo, God forbid but you ſhould ſuffer with Chriſt til death; but come to the trial in deed and truth; Doth not he ſuffer under all the pride &amp; pleaſures of the fleſh by all manner of exceſs, by all man<g ref="char:EOLhyphen"/>ner of cuſtoms &amp; faſhions, not of God, but of the world? is not all againſt him that is not of him and the Father? Is not the luſt of the eye, and of the fleſh, and pride of life, his oppreſſors? And do you that live in theſe things, and faſhions, and plead for them, ſuffer with him by them, or war with him againſt them? then would you be weary of them, and not pra<g ref="char:EOLhyphen"/>ctiſe nor plead for them againſt him: This you will will find true in the end, you cannot ſuffer with him, and ſerve his Enemies.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons,</hi> 1657.</p>
+            <pb facs="tcp:48858:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
